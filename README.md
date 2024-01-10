@@ -1,5 +1,5 @@
 # Warehouse Inventory Management System
-
+# Instructions CycleCount-1.0.1\How To use Cycle_Count Instruction.docx
 ## Overview
 
 This Python application, built with PyQt6, provides a Warehouse Inventory Management System. It allows users to generate reports for specific storage bins, update labels, and calculate daily KPIs to achieve inventory goals. The system uses SQLite for database management.
